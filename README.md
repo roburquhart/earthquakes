@@ -1,0 +1,2 @@
+# earthquakes
+In this notebook I have downloaded data from United States Geographic Services for major earthquakes (over 7 on the Richter Scale.) The notebook contains some preliminary data analysis, but in the main centres on plotting the latitude and longitude of these quakes on a world map, and highlighting those that are greater than 8 on the Richter scale. The resultant map shows clear 'bands' of earthquake zones around the earth.
